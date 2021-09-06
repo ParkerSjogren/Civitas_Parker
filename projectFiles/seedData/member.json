@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "60f18fd7cb803555b45b38f1"
+  },
+  "firstName": "Yasir",
+  "lastName": "Sabri",
+  "address1": "Calgary",
+  "address2": "AB",
+  "city": "Calgary",
+  "province": "Alberta",
+  "postalCode": "T0Z0E0",
+  "contactNumber": [
+    {
+      "_id": {
+        "$oid": "60f18fd7cb803555b45b38f2"
+      },
+      "name": "home ",
+      "phoneNumber": "5870000000"
+    }
+  ],
+  "emailAddress": "yasir.zsabri@gmail.com",
+  "communityDetail": [
+    {
+      "_id": {
+        "$oid": "60f18fd7cb803555b45b38f3"
+      },
+      "community": {
+        "$oid": "60d91f40e7ca6434287d6907"
+      },
+      "userLevel": {
+        "$oid": "609b04213fedfb45458a5f58"
+      },
+      "renewalDate": {
+        "$date": "2021-07-16T13:55:21.357Z"
+      },
+      "memberSince": {
+        "$date": "2021-07-16T13:55:21.357Z"
+      },
+      "membershipPaidDate": {
+        "$date": "2021-08-10T17:22:26.611Z"
+      },
+      "active": true
+    }
+  ],
+  "username": {
+    "$oid": "6099cdc63fedfb45458a073c"
+  },
+  "active": true,
+  "dateAdded": {
+    "$date": "2021-07-16T13:55:35.098Z"
+  },
+  "lastUpdateDate": {
+    "$date": "2021-08-23T17:09:04.592Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61045c470eb8c02844c9cb19"
+  },
+  "firstName": "Parker",
+  "lastName": "Sjogren",
+  "address1": "214 Sierra Morena Close SW",
+  "address2": "AB",
+  "city": "Calgary",
+  "province": "Alberta",
+  "postalCode": "T3H 3G3",
+  "contactNumber": [
+    {
+      "_id": {
+        "$oid": "61045c470eb8c02844c9cb1a"
+      },
+      "name": "cell",
+      "phoneNumber": "123"
+    }
+  ],
+  "emailAddress": "sjogrenp@telus.net",
+  "communityDetail": [
+    {
+      "_id": {
+        "$oid": "61045c470eb8c02844c9cb1b"
+      },
+      "community": {
+        "$oid": "60d91f40e7ca6434287d6907"
+      },
+      "userLevel": {
+        "$oid": "609b04213fedfb45458a5f58"
+      },
+      "renewalDate": {
+        "$date": "2021-07-30T20:08:29.568Z"
+      },
+      "memberSince": {
+        "$date": "2021-07-30T20:08:29.568Z"
+      },
+      "membershipPaidDate": {
+        "$date": "2021-07-30T20:08:29.568Z"
+      },
+      "active": true
+    }
+  ],
+  "username": {
+    "$oid": "60e73016186f7d4530029dfc"
+  },
+  "active": true,
+  "dateAdded": {
+    "$date": "2021-07-30T20:08:39.318Z"
+  },
+  "lastUpdateDate": {
+    "$date": "2021-08-23T17:08:55.335Z"
+  },
+  "__v": 0
+}]

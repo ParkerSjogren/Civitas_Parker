@@ -1,0 +1,145 @@
+.createform1{
+    position:fixed;
+    
+    top:25px; 
+    left: 340px; 
+    width: 70%;
+    height:90vh ;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: auto;
+    z-index: 9999;
+    
+}
+
+
+ .popup-in1{
+    position:fixed;
+    padding:25px;
+    width:185vh;
+    max-width: 1000px;
+    background-color: rgb(136, 136, 139);
+    margin: auto;
+    align-self: center;
+    z-index: 9999;
+    overflow-x:scroll ;
+    height: 87vh;
+
+} 
+
+
+
+.popup-in1 closebtn{
+   
+    font-weight: bold;
+    background-color: rgb(10, 9, 9) !important;
+    font-size: larger;
+    margin-bottom: auto;
+   
+}
+
+/* .popup-in-signUp {
+    margin: auto;
+    background: rgba(243, 241, 241, 0.493);
+    width: 100%;
+    padding: 225px;
+    margin-bottom: auto;
+    align-self: center;
+} */
+
+/* .createform h4{
+    margin-bottom: auto;
+    background-position-x: center;
+} */
+
+/* .createform input, select{
+    width:100%;
+    padding: 6px 10px;
+    margin:8px 0;
+    border: 1px solid rgb(12, 10, 10);
+    box-sizing: border-box;
+    display:block;   
+} */
+/* 
+.createform .row{
+    width:100%;
+    clear:both;  
+} */
+
+/* .createform .col3{
+    float:left;
+    width: 32%;
+    margin-right: 7.7px;
+} */
+
+/* .createform .col4{
+    float:left;
+    width: 23%;
+    margin-right: 7.7px;
+}
+
+.createform .col2{
+    width:50%;
+    float:left;
+}
+
+.createform .col2-rate{
+    width:48%;
+    float:left;
+    margin-right: 11.5px;
+} */
+
+/* .createform table{ 
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: 3px;
+} */
+/* .createform button{
+    background-color: #f1f1f1;
+
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+
+} */
+
+/* .createform .clear{
+    font-weight: bold;
+    background-color: white;
+    font-size: larger;
+} */
+
+
+/* .closebtn {
+    position: absolute;
+    top: 30px;
+    right: 4px;;
+    font-weight: bold;
+    background-color: white;
+    font-size: larger;
+    margin-bottom: auto;
+} */
+
+/* label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+} */
+
+.mid{
+text-align: center;
+}
+.midText{
+    margin: 20px;
+}
+.phoneTd{
+
+}

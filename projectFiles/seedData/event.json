@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "6101dfd4fbfb682e75e1d905"
+  },
+  "name": "Family movie night",
+  "description": "this is the description for event one",
+  "address1": "Crestmont west park",
+  "address2": "Playground ",
+  "city": "Calgary",
+  "province": "Alberta",
+  "start": {
+    "$date": "2021-08-16T02:30:00.503Z"
+  },
+  "end": {
+    "$date": "2021-08-16T05:30:00.503Z"
+  },
+  "community": {
+    "$oid": "60d91f40e7ca6434287d6907"
+  },
+  "fee": 30,
+  "contactNumber": [
+    {
+      "_id": {
+        "$oid": "6123d73a0c4d8230fc1c287e"
+      },
+      "name": "Cresmont General Info:",
+      "phoneNumber": "587-456-7890"
+    }
+  ],
+  "active": true,
+  "dateAdded": {
+    "$date": "2021-07-16T00:49:04.503Z"
+  },
+  "lastUpdateDate": {
+    "$date": "2021-08-23T17:18:04.031Z"
+  }
+},{
+  "_id": {
+    "$oid": "611a770c207571002ee7c7bf"
+  },
+  "name": "Crestmont foodtruck",
+  "address1": "Crestmont hall parking lot",
+  "address2": "N/A",
+  "city": "Calgary",
+  "province": "Alberta",
+  "start": {
+    "$date": "2021-08-17T08:31:00Z"
+  },
+  "end": {
+    "$date": "2021-08-17T12:31:00Z"
+  },
+  "community": {
+    "$oid": "60d91f40e7ca6434287d6907"
+  },
+  "fee": 25,
+  "contactNumber": [
+    {
+      "_id": {
+        "$oid": "611a770c207571002ee7c7c0"
+      },
+      "name": "Mobile",
+      "phoneNumber": "5878520234"
+    }
+  ],
+  "active": true,
+  "dateAdded": {
+    "$date": "2021-08-16T14:32:43.499Z"
+  },
+  "lastUpdateDate": {
+    "$date": "2021-08-23T17:17:43.662Z"
+  },
+  "__v": 0
+}]

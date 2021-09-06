@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "60d91f40e7ca6434287d6907"
+  },
+  "name": "Cresmont Community Association",
+  "description": "The Crestmont Community Association was incorporated as a not-for-profit organization ",
+  "address1": "12400 Crestmont Blvd",
+  "address2": "SW",
+  "city": "Calgary",
+  "province": "Alberta",
+  "postalCode": "T3B 5W5",
+  "contactNumber": [
+    {
+      "_id": {
+        "$oid": "60d91f40e7ca6434287d6908"
+      },
+      "name": "Cresmont General Info:",
+      "phoneNumber": "587-000-0000"
+    }
+  ],
+  "contactPerson": [
+    {
+      "_id": {
+        "$oid": "60d91f40e7ca6434287d6909"
+      },
+      "firstName": "Megan",
+      "lastName": "Brayshaw"
+    }
+  ],
+  "emailAddress": "meganb@crestmontcommunity.org",
+  "membershipFee": 60,
+  "GST": 0.05,
+  "PST": 0,
+  "HST": 0,
+  "membershipStartPeriod": {
+    "$date": "2021-04-01T00:00:00Z"
+  },
+  "active": true,
+  "dateAdded": {
+    "$date": "2021-06-28T01:00:48.399Z"
+  },
+  "lastUpdateDate": {
+    "$date": "2021-08-23T16:57:07.268Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6123d4450c4d8230fc1c27ae"
+  },
+  "name": "McKenzie Community Association",
+  "description": "McKenzie  Community Associatio",
+  "address1": "40 McKenzie Towne Blvd SE",
+  "address2": "AB T2Z 4X5",
+  "city": "Calgary",
+  "province": "AB",
+  "postalCode": "T2Z 4X5",
+  "contactNumber": [
+    {
+      "_id": {
+        "$oid": "6123d4450c4d8230fc1c27af"
+      },
+      "name": "Phone ",
+      "phoneNumber": "4031231234"
+    }
+  ],
+  "contactPerson": [
+    {
+      "_id": {
+        "$oid": "6123d4450c4d8230fc1c27b0"
+      },
+      "firstName": "Max",
+      "lastName": "4031231234"
+    }
+  ],
+  "emailAddress": "McKenzie@gmail.com",
+  "membershipFee": 100,
+  "GST": 5,
+  "PST": 0,
+  "HST": 0,
+  "membershipStartPeriod": {
+    "$date": "2021-08-23T16:55:26.791Z"
+  },
+  "active": true,
+  "dateAdded": {
+    "$date": "2021-08-23T17:00:53.202Z"
+  },
+  "lastUpdateDate": {
+    "$date": "2021-08-23T17:01:11.250Z"
+  },
+  "__v": 0
+}]

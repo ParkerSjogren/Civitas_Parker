@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "610eefa91b829223b2100c9d"
+  },
+  "firstName": "Yasir",
+  "lastName": "Sabri",
+  "address1": " Calgary",
+  "address2": "N/A",
+  "city": "Calgary",
+  "province": "Alberta",
+  "postalCode": "T3B 5W5",
+  "contactNumber": [
+    {
+      "_id": {
+        "$oid": "610f120f4021fa3244875c9f"
+      },
+      "name": "home ",
+      "phoneNumber": "567-888-8888"
+    }
+  ],
+  "emailAddress": "yasir.zsabri@gmail.com",
+  "username": {
+    "$oid": "6099cdc63fedfb45458a073c"
+  },
+  "event": {
+    "$oid": "6101dfd4fbfb682e75e1d905"
+  },
+  "numberOfAttendees": 1,
+  "feePaid": false,
+  "active": true,
+  "dateAdded": {
+    "$date": "2021-07-16T13:55:35.098Z"
+  },
+  "lastUpdateDate": {
+    "$date": "2021-08-23T17:20:11.024Z"
+  }
+},{
+  "_id": {
+    "$oid": "6123d9400c4d8230fc1c28e9"
+  },
+  "firstName": "Parker ",
+  "lastName": "Sjogren",
+  "address1": "Calgary",
+  "address2": "N/A",
+  "city": "Calgary",
+  "province": "AB",
+  "postalCode": "T0A0Z0",
+  "contactNumber": [
+    {
+      "_id": {
+        "$oid": "6123d9400c4d8230fc1c28ea"
+      },
+      "name": "Cell",
+      "phoneNumber": "4035558888"
+    }
+  ],
+  "emailAddress": "parker@gmail.com",
+  "username": {
+    "$oid": "60e73016186f7d4530029dfc"
+  },
+  "event": {
+    "$oid": "611a770c207571002ee7c7bf"
+  },
+  "numberOfAttendees": 2,
+  "feePaid": false,
+  "active": true,
+  "dateAdded": {
+    "$date": "2021-08-23T17:22:08.597Z"
+  },
+  "lastUpdateDate": {
+    "$date": "2021-08-23T17:22:08.597Z"
+  },
+  "__v": 0
+}]

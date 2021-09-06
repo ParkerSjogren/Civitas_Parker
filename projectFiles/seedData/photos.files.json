@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "61155e5b4e5d4d084763f2d0"
+  },
+  "length": 104112,
+  "chunkSize": 261120,
+  "uploadDate": {
+    "$date": "2021-08-12T17:46:03.459Z"
+  },
+  "filename": "1628790363062-any-name-Paradise.jpg",
+  "contentType": "image/jpeg"
+}]
